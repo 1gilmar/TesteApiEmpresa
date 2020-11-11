@@ -8,11 +8,8 @@ Patrimônio
 Campos:
 
 `Nome - obrigatório
-
 MarcaId – obrigatório
-
 Descrição
-
 No do tombo`
 
 Regras: O no do tombo deve ser gerado automaticamente pelo sistema e não pode ser
@@ -23,7 +20,6 @@ Marca
 Campos:
 
 `Nome – obrigatório
-
 MarcaId - obrigatório`
 
 Regras: Não deve permitir a existência de duas marcas com o mesmo nome.
@@ -32,9 +28,7 @@ Usuário
 Campos:
 
 `Nome – obrigatório
-
 Email – obrigatório
-
 Senha - obrigatório`
 
 Regras: Não permitir e-mail repetido
