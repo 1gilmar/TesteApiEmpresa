@@ -4,7 +4,7 @@ Crie uma Web API REST para o gerenciamento de patrimônios de uma empresa.
 Requisitos
 Patrimônio
 Campos:
-Nome - obrigatório
+'Nome - obrigatório'
 MarcaId – obrigatório
 Descrição
 No do tombo
