@@ -7,10 +7,10 @@ Patrimônio
 
 Campos:
 
-[Nome - obrigatório
-MarcaId – obrigatório
-Descrição
-No do tombo`]
+´Nome - obrigatório´
+´MarcaId – obrigatório´
+´Descrição´
+´No do tombo´
 
 Regras: O no do tombo deve ser gerado automaticamente pelo sistema e não pode ser
 alterado pelos usuários.
